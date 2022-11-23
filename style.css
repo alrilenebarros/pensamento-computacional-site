@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: rgb(6, 181, 239);
+    background-color: rgb(185, 230, 244);
 }
 h1 {
     background-color: rgb(43, 212, 212);
@@ -8,5 +8,11 @@ h1 {
 p{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
-    color: #110468;
+    color: #6b5dcb;
+}
+img {
+    width: 300px;
+}
+.paragrafo { 
+    font-size: 30px;
 }
