@@ -16,3 +16,12 @@ img {
 .paragrafo { 
     font-size: 30px;
 }
+.paragrafos
+background-color::before (17, 17, 16);
+    border: 2px solid black;
+
+.lista{
+text-align: left;
+font-size: 25 px;
+background-color: rgb(rgb(162, 133, 133), rgb(103, 207, 103), rgb(21, 21, 138));
+    }
